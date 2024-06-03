@@ -33,18 +33,9 @@
 
 <br>
 <h3 align="left">🔥   My Stats :</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MBAREK0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBAREK0&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBAREK0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
