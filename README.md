@@ -66,6 +66,4 @@
   </tr>
 </table>
 
-<br>
 
-<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
