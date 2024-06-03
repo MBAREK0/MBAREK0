@@ -1,4 +1,4 @@
-<table style="width: 100%;">
+<table style="width: 100%; margin-left:20px;">
   <tr>
     <td style="width: 50%;">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" alt="GIF">
