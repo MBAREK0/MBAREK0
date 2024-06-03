@@ -46,8 +46,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40">
-    <img src="https://www.creativefabrica.com/wp-content/uploads/2022/10/11/Data-Structure-icon-Graphics-41194257-1.jpg" alt="Data Structures" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/algorithms/algorithms-original.svg" alt="Algorithms" width="40" height="40">
 </div>
 
 
