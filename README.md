@@ -1,6 +1,4 @@
-<iframe src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J">via GIPHY</a></p>
-
-# My Name Is M'barek
+![My Name Is M'barek](https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif)
 
 
 
