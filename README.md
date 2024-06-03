@@ -1,5 +1,20 @@
-|  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" >| <div style="display: flex; justify-content: space-between; align-items: center;" width="100%" height="250px"><h3 style="margin: 0;">I'm a full-stack PHP developer</h3><div><a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/https://x.com/m_eladraoui"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a></div></div> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" alt="GIF">
+    </td>
+    <td style="width: 50%;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="margin: 0;">I'm a full-stack PHP developer</h3>
+        <div>
+          <a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+          <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+          <a href="https://x.com/https://x.com/m_eladraoui"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"><img src="https://img.shields.io/badge/REST%20API-%23121011.svg?style=for-the-badge" alt="REST API">
