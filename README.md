@@ -1,7 +1,5 @@
-<div style="display: inline-block; vertical-align: middle;">
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px" height="50px" style="float: left; margin-right: 20px;">
-  <h1 style="font-size: 24px; line-height: 50px;">My Name Is M'barek</h1>
-</div>
+| <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px" height="50px" style="margin-right: 20px;"> | My Name Is M'barek |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.elaadraoui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/m_eladraoui) 
