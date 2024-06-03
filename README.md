@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="100px" height="100px" style="margin-right: 20px;">
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px" height="50px" style="margin-right: 20px;">
   <h1 style="font-size: 24px;">My Name Is M'barek</h1>
 </div>
 
