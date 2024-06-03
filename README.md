@@ -1,10 +1,10 @@
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%;">
+<table  width="100%">
+  <tr  width="100%">
+    <td  width="50%">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" alt="GIF">
     </td>
-    <td style="width: 50%;">
-      <div style="display: flex; justify-content: space-between; align-items: center;">
+    <td  width="50%">
+      <div style="display: flex; justify-content: space-between; align-items: center;"  width="100%">
         <h3 style="margin: 0;">I'm a full-stack PHP developer</h3>
         <div>
           <a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
