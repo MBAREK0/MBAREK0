@@ -1,4 +1,7 @@
-![My Name Is M'barek](https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="100" height="100" style="margin-right: 20px;">
+  <h1 style="font-size: 24px;">My Name Is M'barek</h1>
+</div>
 
 
 
