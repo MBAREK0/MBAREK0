@@ -1,4 +1,12 @@
-| <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="520px" height="270px" style="margin-right: 20px;"> | <div style="display: flex; justify-content: space-between; align-items: center;"><h1>My Name Is M'barek</h1><div><a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/https://x.com/m_eladraoui"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a></div></div> |
+| <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="520px" height="270px" style="margin-right: 20px;"> | <div style="display: flex; justify-content: space-between; align-items: center;">
+
+
+- **Name:**  M'barek
+- **Location:** [Your City, Country]
+- **Interests:** [Your interests or hobbies]
+- **GitHub:** [Your GitHub profile link] ![GitHub icon](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg)
+
+<div><a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/https://x.com/m_eladraoui"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a></div></div> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
