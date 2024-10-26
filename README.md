@@ -11,9 +11,7 @@
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
         <h3 style="margin: 0;">I'm a PHP developer</h3>
         <div>
-          <a href="https://instagram.com/https://www.instagram.com/m.elaadraoui/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-          <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-          <a href="https://x.com/m_eladraoui"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/mbarek-elaadraoui/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         </div>
       </div>
     </td>
