@@ -5,7 +5,7 @@
 <table style="width: 100%; margin-left:20px;">
   <tr>
     <td style="width: 50%;">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e474liecrm86ty5pxcu5lz5n4bnwg15uhkywtjj4wkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" alt="GIF">
+      <img src="https://camo.githubusercontent.com/fe2c2a9335af7c19ea4a769a0c317062392e83d50cc325e3771cc3619c5d2d95/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33332f66612f37312f33336661373136396563383132363663656336363466383433323264626632612e676966" width="100%" height="250px" alt="GIF">
     </td>
     <td style="width: 50%;">
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
