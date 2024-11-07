@@ -37,8 +37,16 @@
 <br>
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MBAREK0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<h1></h1>
+
+<br/><div align="center">
+<a href="https://github.com/MBAREK0">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MBAREK0&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MBAREK0&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MBAREK0&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MBAREK0&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBAREK0&theme=2077" height="180em" />
 </div>
+
 
 
