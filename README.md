@@ -1,25 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
-<div align="center" width="100%">
-<table style="width: 100%; margin-left:20px;">
-  <tr>
-    <td style="width: 50%;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFsaG9iMzIxcjNueTNtN3h4NzNzcGRqaGc1bm90YXdhcHF3d3N5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="250px" alt="GIF">
-    </td>
-    <td style="width: 50%;">
-      <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-        <h3 style="margin: 0;">I'm a Java Software Developer</h3>
-        <div>
- <a href="https://www.linkedin.com/in/mbarek-elaadraoui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>  
+  <h1>Java Developer</h1>
+</p>
 
 <br>
 
